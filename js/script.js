@@ -52,12 +52,19 @@ let myLibraryFunction;
 
 //------- STEP 6
 
-let num = prompt('Give me a number between 1 and 10');
-console.log(num);
+// let a = 1 + '1';
+// console.log(a);
+
+// console.log(num);
+
 //------- STEP 7
 
-var contact = prompt('May we contact you?')
-var contact = true
+// let a = true + '1';
+// console.log(a);
+
+// let b = true + 1;
+// console.log(b);
+
 
 //------- STEP 8
 
